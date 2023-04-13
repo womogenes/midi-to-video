@@ -4,7 +4,7 @@ This was quick project that I more or less threw together over a weekend. As suc
 
 ## What does this do?
 
-Inspired by TwoSet Violin's ["1% Violin Skills 99% Editing Skills"](https://youtu.be/_r6j9rD_j5I) video, in which a piece of music is recorded as a sequence of chromatic notes stitched together as opposed to one continuous take.
+Inspired by TwoSetViolin's ["1% Violin Skills 99% Editing Skills"](https://youtu.be/_r6j9rD_j5I) video, in which a piece of music is recorded as a sequence of chromatic notes stitched together as opposed to one continuous take.
 
 See the video that I generated with this project here: [insert link]
 
