@@ -10,9 +10,7 @@ See the video that I generated with this project here: [insert link]
 
 ## How can I make my own video?
 
-This project is meant to recreate the Bach double violin concerto, so I'll be detailing the process of how I made that. Code can be tweaked to play arbitrary pieces, but =====
-
-, and I hope to create a generalized
+This project is meant to recreate the Bach double violin concerto, so I'll be detailing the process of how I made that. Code can be tweaked to play arbitrary pieces, and I hope to create a generalized version in the future. For now, though, you're stuck with Bach.
 
 ### Environment setup
 
