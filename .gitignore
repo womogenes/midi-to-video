@@ -1,0 +1,5 @@
+data/recordings/violin*/text
+data/recordings/violin*/raw/*
+data/sequence/*
+!data/sequence/bach_double
+*output/
